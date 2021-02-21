@@ -25,4 +25,5 @@ Una vez activado le aparece un Opcion en de "CLIMA" el cual contiene tres submen
    borrar uno o varios registros
    https://github.com/ispardoa/clima_plugin/blob/master/visualizarentradas.JPG
    
-Nota: Para visualizar el contenido de la tabla se realiza por medio de un [shortcode] a una post_type
+Nota: Para visualizar el contenido de la tabla se realiza por medio de un [shortcode] a una post_type 
+Ejempo : [dbtable from="wp_historico"] 
